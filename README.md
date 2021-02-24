@@ -1,8 +1,3 @@
-# 気象庁API
+# https://eggplants.github.io/jma-api-doc/
 
-- https://www.jma.go.jp/bosai/amedas
-  - [amedas](amedas)
-- https://www.jma.go.jp/bosai/common
-  - [common](common)
-- https://www.jma.go.jp/bosai/forecast
-  - [forecast](forecast)
+See: https://eggplants.github.io/jma-api-doc
