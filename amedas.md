@@ -23,8 +23,7 @@
       "enName":"Cape Soya"
    },
    "11016":{
-      "type":"A",amedas: アメダス
-
+      "type":"A",
       "elems":"11111111",
       "lat":[
          45,
