@@ -15,7 +15,7 @@
 
 - <http://www.jma.go.jp/bosai/common/const/contents.json>
 
-### `.groups`
+<details><summary>`.groups`</summary>
 
 ```json
 [
@@ -58,7 +58,9 @@
 ]
 ```
 
-### `[.contents[]|select(.type=="bousai")]`
+</details>
+
+<details><summary>`[.contents[]|select(.type=="bousai")]`</summary>
 
 ```json
 [
@@ -439,7 +441,9 @@
 ]
 ```
 
-### `[.contents[]|select(.type=="forecast")]`
+</details>
+
+<details><summary>`[.contents[]|select(.type=="forecast")]`</summary>
 
 ```json
 [
@@ -668,7 +672,9 @@
 ]
 ```
 
-### `[.contents[]|select(.type=="observation")]`
+</details>
+
+<details><summary>`[.contents[]|select(.type=="observation")]`</summary>
 
 ```json
 [
@@ -773,7 +779,9 @@
 ]
 ```
 
-### `[.contents[]|select(.type=="ocean")]`
+</details>
+
+<details><summary>`[.contents[]|select(.type=="ocean")]`</summary>
 
 ```json
 [
@@ -900,7 +908,9 @@
 ]
 ```
 
-### `[.contents[]|select(.type=="earth")]`
+</details>
+
+<details><summary>`[.contents[]|select(.type=="earth")]`</summary>
 
 ```json
 [
@@ -1045,7 +1055,9 @@
 ]
 ```
 
-### `[.contents[]|select(.type=="volcano")]`
+</details>
+
+<details><summary>`[.contents[]|select(.type=="volcano")]`</summary>
 
 ```json
 [
@@ -1109,7 +1121,7 @@
 ]
 ```
 
-
+</details>
 
 ## 情報源
 
